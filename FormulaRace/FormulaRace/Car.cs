@@ -13,13 +13,22 @@ namespace FormulaCrash
 
         public Car(string brand, string powerUnit)
         {
+            this.brand = brand;
+            this.powerUnit = powerUnit;
         }
         public string Brand
-        { 
+        {
+            get
+            {
+                return this.brand;
+            }
         }
         public string PowerUnit
         {
-
+            get
+            {
+                return this.powerUnit;
+            }
         }
 
     }
