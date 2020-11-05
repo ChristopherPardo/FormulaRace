@@ -8,6 +8,7 @@ namespace FormulaCrashView
 {
     public class Program
     {
+        //publish v1.0
         public static void Main(string[] args)
         {
             
