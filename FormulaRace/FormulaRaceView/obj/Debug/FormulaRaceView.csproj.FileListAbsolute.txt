@@ -1,0 +1,7 @@
+C:\Users\PC_Samuel_01\Documents\GitHub\FormulaRace\FormulaRace\FormulaRaceView\bin\Debug\FormulaRaceView.exe.config
+C:\Users\PC_Samuel_01\Documents\GitHub\FormulaRace\FormulaRace\FormulaRaceView\bin\Debug\FormulaRaceView.exe
+C:\Users\PC_Samuel_01\Documents\GitHub\FormulaRace\FormulaRace\FormulaRaceView\bin\Debug\FormulaRaceView.pdb
+C:\Users\PC_Samuel_01\Documents\GitHub\FormulaRace\FormulaRace\FormulaRaceView\obj\Debug\FormulaRaceView.csprojAssemblyReference.cache
+C:\Users\PC_Samuel_01\Documents\GitHub\FormulaRace\FormulaRace\FormulaRaceView\obj\Debug\FormulaRaceView.csproj.CoreCompileInputs.cache
+C:\Users\PC_Samuel_01\Documents\GitHub\FormulaRace\FormulaRace\FormulaRaceView\obj\Debug\FormulaRaceView.exe
+C:\Users\PC_Samuel_01\Documents\GitHub\FormulaRace\FormulaRace\FormulaRaceView\obj\Debug\FormulaRaceView.pdb
