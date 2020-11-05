@@ -10,7 +10,7 @@ namespace FormulaCrashView
     {
         public static void Main(string[] args)
         {
-            //bugs
+            
         }
 
         public void DisplayTeams()
