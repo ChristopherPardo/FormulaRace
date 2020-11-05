@@ -8,7 +8,7 @@ namespace FormulaRace
         private string lastname;
         private int number;
 
-        public Driver(string name, string, int number)
+        public Driver(string name, string lastname, int number)
         {
             this.name = name;
             this.lastname = lastname;
